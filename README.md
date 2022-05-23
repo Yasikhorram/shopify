@@ -1,5 +1,5 @@
 # AI app 
-###### Using GPT-3 which is a powerful AI model created by OpenAI in this project.
+###### Using GPT-3 which is a ⚡ powerful AI model created by OpenAI in this project.
 ###### GPT-3 process plain text prompts and displays outputs. 
 ---
 
