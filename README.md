@@ -1,6 +1,13 @@
-# AI app 
+# Fun with AI app 
 ###### Using GPT-3 which is a ⚡ powerful AI model created by OpenAI in this project.
 ###### GPT-3 process plain text prompts and displays outputs. 
+## Description
+I built an app where user can send questions to the OpenAI api and the response will be displayed in a list.
+
+## Getting Started
+`npm run start`
+
+
 ---
 
 
